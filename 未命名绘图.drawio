@@ -1,32 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T06:35:54.591Z" agent="5.0 (Windows)" etag="sCjVM7SPJb74ZKiAXmWA" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T06:38:06.621Z" agent="5.0 (Windows)" etag="-9kd8hMpGMdIziI7KJIo" version="20.5.3" type="github">
   <diagram id="2ICcWeiLOYVr5hPKe--f" name="第 1 页">
-    <mxGraphModel dx="675" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-3" value="Eureka Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tDdabyUVN-SQ6ZdTEQ9M-4" target="tDdabyUVN-SQ6ZdTEQ9M-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-4" value="Eureka Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tDdabyUVN-SQ6ZdTEQ9M-3">
+        <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDdabyUVN-SQ6ZdTEQ9M-3" target="tDdabyUVN-SQ6ZdTEQ9M-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="170" as="sourcePoint" />
             <mxPoint x="280" y="120" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-6" value="Eureka Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tDdabyUVN-SQ6ZdTEQ9M-4" target="tDdabyUVN-SQ6ZdTEQ9M-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="130" as="sourcePoint" />
             <mxPoint x="290" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-11" value="Replicate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDdabyUVN-SQ6ZdTEQ9M-15" value="Replicate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
